@@ -528,6 +528,14 @@ a {
   font-size: 0.88em;
 }
 
+.ticket-note {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.78em;
+  font-weight: 700;
+}
+
 .venue-media {
   display: grid;
   grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
